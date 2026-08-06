@@ -40,5 +40,7 @@ github desktop上部の`Repository>pull`
 
 2.コミットするファイルを選ぶ
 画面左に変更もしくは追加候補のファイルが表示されるので追加したいものにチェックを入れる(作りかけだったり追加したくないファイルはチェックを外してください)
+
 3.Summaryに更新内容を記載してから`Commit to main`押下
+
 4.github desktop上部の`Repository>push`でファイルをプッシュする
