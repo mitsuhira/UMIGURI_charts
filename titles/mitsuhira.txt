@@ -21,7 +21,8 @@ mitt_g_0000001	3	ピアノ弾きの冒険者	D's Adventure Note/MASTER/RANK SSS�
 mitt_g_0000002	3	GIRLS' TALK MUSICAL	Do it! Doit!/3人で店内マッチング/FULL CHAIN達成
 mitt_g_0000003	3	意味がわかると怖い話	線路はつづくよどこまでも(アレンジ)/MASTER/FULL COMBO達成
 mitt_g_0000004	3	N≡N	窒素/MASTER/2人で店内マッチング/FULL CHAIN達成
-mitt_g_0000005	3	わ！すんげゑマッチョ！？	隠しエリアの曲ですわよ/MASTER/2人で店内マッチング/FULL CHAIN達成
+mitt_g_0000005	3	わ！すんげゑマッチョ！？	隠しエリアの曲ですわよ/2人で店内マッチング/FULL CHAIN達成
+mitt_g_0000006	3	わたしたちは ここにいます	ふ･れ･ん･ど･し･た･い/4人で店内マッチング/FULL CHAIN達成
 
 
 mitt_p_0000001	4	会社の犬になるな、自分の英雄となれ！	社畜の逆襲は今だ/MASTER/ALL JUSTICE達成
